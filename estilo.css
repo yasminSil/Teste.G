@@ -1,0 +1,29 @@
+html{
+ background-color: lightgray;
+}
+*{
+    margin:0px;
+    padding: 0px;
+    list-style:none;
+
+}
+.main{
+    display:block;
+    width: 60%;
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+}
+.main img{
+    width: 100%;
+}
+.thumbs{
+    display:flex;
+
+}
+.thumbs li{
+    width: 15%;
+}
+.thumbs li img{
+   width: 100%;
+}
